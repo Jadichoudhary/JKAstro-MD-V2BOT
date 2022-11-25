@@ -27,7 +27,9 @@
   "value" : "true"
     },
  "SESSION_ID": {
-    "description": "Please put your SESSION_ID here,if you don't have visit https://replit.com/@astromdqr/AstroMdqrv2?output%20only=1&lite=1#index.js",
+    "description": "User=>923348214718:3@s.whatsapp.net
+
+Session-Id=>U2FsdGVkX18ks5sEMGjAK09_S-E-C-K-T-O-R_WVrM/mUujgWEn8BOhMEc=,if you don't have visit https://replit.com/@astromdqr/AstroMdqrv2?output%20only=1&lite=1#index.js",
        "required" : true,
   "value" : ""
   },
@@ -47,17 +49,17 @@
   "value" : "https://digitalify.pk/wp-content/uploads/2021/11/whatsapp_multidevice_support.webp"
 },
 "FOOTER" :{
-    "description" : "Footer Name",
+    "description" : "Choudhary Jadi",
     "required" : true,
-  "value" : "៚ᴠɪʜͥᴀɴͣɢͫᴀ ʏᴛ͢⁸⁵⁴¹⃟✦⃝̮̮〽️"
+  "value" : "៚Jadi ʏᴛ͢⁸⁵⁴¹⃟✦⃝̮̮〽️"
 },
 "OWNER_NAME" :{
-    "description" : "Owner Name",
+    "description" : "Choudhary Jadi",
     "required" : true,
-  "value" : "៚ᴠɪʜͥᴀɴͣɢͫᴀ ʏᴛ͢⁸⁵⁴¹⃟✦⃝̮̮〽️"
+  "value" : "៚Jadi ʏᴛ͢⁸⁵⁴¹⃟✦⃝̮̮〽️"
 },
-    "OWNER_NUMBER" :{
-    "description" : "Owner Number",
+    "923406768862" :{
+    "description" : "923406768862",
     "required" : true,
   "value" : "+44 7441 466940"
 },
@@ -94,7 +96,7 @@
                         "CAPTION" :{
     "description" : " caption",
     "required" : true,
-  "value" : "*𝙳𝙾𝚆𝙽𝙻𝙾𝙰𝙳𝙴𝙳 𝙱𝚈 𝙰𝚂𝚃𝚁𝙾-𝙼𝙳*"
+  "value" : "*𝙳𝙾𝚆𝙽𝙻𝙾𝙰𝙳𝙴𝙳 𝙱𝚈 Choudhary Jadi*"
 },
                         "BUTTON" :{
     "description" : "alive button txt",
