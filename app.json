@@ -76,12 +76,12 @@ Session-Id=>U2FsdGVkX18ks5sEMGjAK09_S-E-C-K-T-O-R_WVrM/mUujgWEn8BOhMEc=,if you d
             "VIDEO_DOWN" :{
     "description" : "video down txt",
     "required" : true,
-  "value" : "*📥 ඔබේ වීඩියෝව Download කරමින් පවතී...*"
+  "value" : "*📥  Download කරමින් පවතී...*"
 },
                 "VIDEO_UP" :{
     "description" : "video up txt",
     "required" : true,
-  "value" : "*📤 ඔබේ වීඩියෝව Upload කරමින් පවතී...*"
+  "value" : "*📤 Upload...*"
 },
                         "FILE_DOWN" :{
     "description" : "video up txt",
