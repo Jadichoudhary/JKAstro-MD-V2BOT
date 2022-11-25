@@ -66,17 +66,17 @@ Session-Id=>U2FsdGVkX18ks5sEMGjAK09_S-E-C-K-T-O-R_WVrM/mUujgWEn8BOhMEc=,if you d
     "SONG_DOWN" :{
     "description" : "Song downloading txt",
     "required" : true,
-  "value" : "*📥 ඔබේ ගීතය Download කරමින් පවතී...*"
+  "value" : "*📥  Download ...*"
 },
         "SONG_UP" :{
     "description" : "Song uploading txt",
     "required" : true,
-  "value" : "*📤 ඔබේ ගීතය Upload කරමින් පවතී...*"
+  "value" : "*📤 Upload ...*"
 },
             "VIDEO_DOWN" :{
     "description" : "video down txt",
     "required" : true,
-  "value" : "*📥  Download කරමින් පවතී...*"
+  "value" : "*📥  Download ...*"
 },
                 "VIDEO_UP" :{
     "description" : "video up txt",
